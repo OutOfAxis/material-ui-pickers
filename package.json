@@ -2,7 +2,7 @@
   "name": "@material-ui/pickers",
   "version": "2.0.0",
   "description": "Material-ui pickers root package",
-  "main": "index.js",
+  "main": "lib/build/index.js",
   "directories": {
     "doc": "docs",
     "lib": "lib"

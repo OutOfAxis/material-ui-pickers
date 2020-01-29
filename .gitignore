@@ -1,5 +1,6 @@
 # dependencies
 node_modules
+!lib/build/node_modules
 
 # build
 dist
