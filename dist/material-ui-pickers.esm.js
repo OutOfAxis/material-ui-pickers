@@ -2157,60 +2157,20 @@ var getMinutesNumbers = function getMinutesNumbers(_ref2) {
     index: 12,
     key: 12
   }), createElement(ClockNumber, {
-    label: f('05'),
-    selected: value === 5,
-    index: 1,
-    key: 1
-  }), createElement(ClockNumber, {
-    label: f('10'),
-    selected: value === 10,
-    index: 2,
-    key: 2
-  }), createElement(ClockNumber, {
     label: f('15'),
     selected: value === 15,
     index: 3,
     key: 3
-  }), createElement(ClockNumber, {
-    label: f('20'),
-    selected: value === 20,
-    index: 4,
-    key: 4
-  }), createElement(ClockNumber, {
-    label: f('25'),
-    selected: value === 25,
-    index: 5,
-    key: 5
   }), createElement(ClockNumber, {
     label: f('30'),
     selected: value === 30,
     index: 6,
     key: 6
   }), createElement(ClockNumber, {
-    label: f('35'),
-    selected: value === 35,
-    index: 7,
-    key: 7
-  }), createElement(ClockNumber, {
-    label: f('40'),
-    selected: value === 40,
-    index: 8,
-    key: 8
-  }), createElement(ClockNumber, {
     label: f('45'),
     selected: value === 45,
     index: 9,
     key: 9
-  }), createElement(ClockNumber, {
-    label: f('50'),
-    selected: value === 50,
-    index: 10,
-    key: 10
-  }), createElement(ClockNumber, {
-    label: f('55'),
-    selected: value === 55,
-    index: 11,
-    key: 11
   })];
 };
 
